@@ -18,8 +18,8 @@ below.
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
-    $ cd PROJECT
+    $ git clone https://github.com/vijayambaliya1122/NYTimes_webApp.git
+    $ cd NYTimes_webApp
     $ npm install
 
 
